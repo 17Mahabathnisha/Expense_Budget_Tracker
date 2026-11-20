@@ -1,0 +1,21 @@
+﻿Expense_ID,Date,Description,Amount,Category,Payment_mode
+E001,01-11-2026,Breakfast,50,Food,Cash
+E002,01-11-2026,Bus Ticket,30,Travel,UPI
+E003,02-11-2026,Lunch,80,Food,Cash
+E004,02-11-2026,Notebook,60,Education,UPI
+E005,03-11-2026,Mobile Recharge,199,Utilities,UPI
+E006,03-11-2026,Snacks,40,Food,Cash
+E007,04-11-2026,College Books,250,Education,UPI
+E008,04-11-2026,Train Ticket,120,Travel,UPI
+E009,05-11-2026,Dinner,100,Food,Cash
+E010,06-11-2026,Pen,20,Education,Cash
+E011,07-11-2026,Shopping,500,Shopping,UPI
+E012,08-11-2026,Breakfast,60,Food,Cash
+E013,09-11-2026,Auto Fare,90,Travel,UPI
+E014,10-11-2026,Medicine,150,Medical,Cash
+E015,11-11-2026,Lunch,100,Food,UPI
+E016,12-11-2026,Internet Recharge,299,Utilities,UPI
+E017,13-11-2026,Stationery,75,Education,Cash
+E018,14-11-2026,Movie Ticket,180,Entertainment,UPI
+E019,15-11-2026,Vegetables,200,Food,Cash
+E020,16-11-2026,College Fees,1000,Education,UPI
