@@ -7,7 +7,7 @@ import os
 # Read Member 1 Excel data
 file_path = os.path.join(
     os.path.dirname(__file__),
-    "expenses.xlsx"
+    "Expenses.xlsx"
 )
 
 df = pd.read_excel(file_path)
